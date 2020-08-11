@@ -6,6 +6,7 @@ are provided during registration.
 - Registration
 - Login
 - Structured Query Language
+- Sent SMS
 
 
 
